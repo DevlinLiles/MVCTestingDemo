@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{337BA2F6-1165-40D9-AF7F-5F2C7323492F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Tests", "..\..\..\Users\Devlin\Documents\Visual Studio 2013\Projects\UI\UI.Tests\UI.Tests.csproj", "{03721DD1-20AE-43C6-BE41-31384270B567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337BA2F6-1165-40D9-AF7F-5F2C7323492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337BA2F6-1165-40D9-AF7F-5F2C7323492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337BA2F6-1165-40D9-AF7F-5F2C7323492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337BA2F6-1165-40D9-AF7F-5F2C7323492F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03721DD1-20AE-43C6-BE41-31384270B567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03721DD1-20AE-43C6-BE41-31384270B567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03721DD1-20AE-43C6-BE41-31384270B567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03721DD1-20AE-43C6-BE41-31384270B567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
